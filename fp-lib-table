@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name Outline)(type KiCad)(uri "$(KIPRJMOD)/libraries/Outline.pretty")(options "")(descr ""))
+)

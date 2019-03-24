@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name ESPAIO-rescue)(type Legacy)(uri ${KIPRJMOD}/ESPAIO-rescue.lib)(options "")(descr ""))
+  (lib (name ESP8266)(type Legacy)(uri ${KICAD_SYMBOL_DIR}/ESP8266.lib)(options "")(descr ""))
+  (lib (name Power_Supplies)(type Legacy)(uri ${KICAD_SYMBOL_DIR}/Power_Supplies.lib)(options "")(descr ""))
+  (lib (name hlw8012)(type Legacy)(uri ${KICAD_SYMBOL_DIR}/hlw8012.lib)(options "")(descr ""))
+)
